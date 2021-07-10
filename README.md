@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulelah Jaber
-- 👀 I’m interested in [ Web Devolpment ]
+- 👀 I’m interested in [ Web Development ]
 - 🌱 I’m currently learning [ PHP, Laravel ]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [ https://twitter.com/@adoo___ ]
